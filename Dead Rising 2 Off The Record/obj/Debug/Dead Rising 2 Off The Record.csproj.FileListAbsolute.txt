@@ -1,0 +1,9 @@
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\bin\Debug\Dead Rising 2 Off The Record.exe
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\bin\Debug\Dead Rising 2 Off The Record.pdb
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\bin\Debug\PS3Lib.dll
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\obj\Debug\Dead Rising 2 Off The Record.csprojResolveAssemblyReference.cache
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\obj\Debug\Dead_Rising_2_Off_The_Record.Form1.resources
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\obj\Debug\Dead_Rising_2_Off_The_Record.Properties.Resources.resources
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\obj\Debug\Dead Rising 2 Off The Record.csproj.GenerateResource.Cache
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\obj\Debug\Dead Rising 2 Off The Record.exe
+c:\users\mrniato\documents\visual studio 2012\Projects\Dead Rising 2 Off The Record\Dead Rising 2 Off The Record\obj\Debug\Dead Rising 2 Off The Record.pdb
